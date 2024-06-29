@@ -4,6 +4,8 @@ Skalculator is a simple GUI RPN calculator using only X11.
 
 To know more about Reverse Polish Notation (RPN), read [this link](https://en.wikipedia.org/wiki/Reverse_Polish_notation).
 
+![screenshot](https://github.com/fvcalderan/Skalculator/blob/main/images/skalculator.jpg?raw=true)
+
 ## Features
 
 Not much in terms of features:
