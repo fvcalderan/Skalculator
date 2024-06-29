@@ -26,6 +26,7 @@ See the full license inside LICENSE.txt file */
 #define MAX_TOKENS 1024 // Maximum number of non-interactive tokens
 #define MAX_BUF_SIZE 4096 // Maximum size of input file
 
+// Data structure to store tokenized strings
 typedef struct {
     char** tokens;
     int token_count;
